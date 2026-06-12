@@ -1,0 +1,6 @@
+{
+  "name": "KrishiMitra AI",
+  "description": "An intelligent, multi-agent agricultural AI assistant providing Crop Advisory, Disease Detection, Weather Intelligence, Market Prices, and Government Schemes.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
